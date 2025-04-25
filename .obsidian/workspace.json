@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2025-04-21-about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-04-21-about"
             }
           }
         ]
@@ -181,11 +181,11 @@
   },
   "active": "74eb44c7de0db89b",
   "lastOpenFiles": [
+    "index.md",
+    "_posts/2025-04-21-about.md",
     "2025-04-21.md",
     "about.md",
-    "index.md",
     "waterfalls_of_qaf/Welcome.md",
-    "_posts/2025-04-21-about.md",
     "waterfalls_of_qaf",
     "Untitled.canvas",
     "_posts/2025-04-21-test.md"
