@@ -5,14 +5,12 @@
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/about.html">About</a>
-    <a href="#">Journal</a>
-    <a href="#">Logs</a>
-    <a href="#">Thanks</a>
-    <a href="#">Lights</a>
-  </nav>
+ <nav>
+  <a href="{{ site.baseurl }}/">Home</a>
+  <a href="{{ site.baseurl }}/about.html">About</a>
+  <a href="#">Journal</a>
+  <a href="#">Logs</a>
+</nav>
   <div class="container">
     {{ content }}
   </div>
