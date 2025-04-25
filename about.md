@@ -3,6 +3,10 @@ layout: default
 title: About
 # permalink: /about/  # Optional
 ---
+
+
+# About
+
 I'm Yana, a 3D designer and artist from Buryatia, Russia. I’m interested in Islamic mysticism, the anthropology of Siberian peoples, Russian literature, and the history of religion and sacred traditions. You can find some of my essays on [**Waterfalls of Qaf**](https://waterfallsofqaf.substack.com/).
 
 Twitter/X: [@yiihya](https://twitter.com/yiihya)

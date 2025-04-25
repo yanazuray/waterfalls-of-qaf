@@ -1,12 +1,21 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    {% include navigation.html %}
+<head>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about.html">About</a>
+    <a href="#">Journal</a>
+     <a href="#">Seeds</a>
+    <a href="#">Logs</a>
+    <a href="#">Thanks</a>
+    <a href="#">Lights</a>
+  </nav>
+  <div class="container">
     {{ content }}
-  </body>
+  </div>
+</body>
 </html>
