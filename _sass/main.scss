@@ -1,3 +1,7 @@
+---
+---
+
+/* Base styles */
 body {
   background-color: #10071c;
   color: #F5F5F5;
@@ -9,10 +13,12 @@ body {
   margin: 0 auto;
 }
 
+/* Typography */
 h1, h2, h3, h4, h5, h6 {
   color: #F5F5F5;
 }
 
+/* Links */
 a {
   color: #F5F5F5;
   text-decoration: none;
@@ -22,37 +28,36 @@ a {
   }
 }
 
-/* Navigation styling */
+/* Navigation */
 nav {
   display: flex;
   padding: 2rem 0;
-  
-  a {
-    color: #F5F5F5;
-    text-decoration: none;
-    margin-right: 2rem; /* Adds space between nav items */
-    font-size: 1.1rem;
-    transition: color 0.2s ease;
-    
-    &:hover {
-      text-decoration: underline;
-    }
-    
-    &:last-child {
-      margin-right: 0; /* Removes margin from last item */
-    }
-  }
 }
 
-/* Optional: To center the navigation like in Tommy's example */
-header {
-  display: flex;
-  justify-content: center;
-  padding: 1rem 0;
+nav a {
+  color: #F5F5F5;
+  text-decoration: none;
+  margin-right: 2rem;
+  font-size: 1.1rem;
+  transition: color 0.2s ease;
 }
 
-/* Make sure there's good left margin/padding on the content */
-body {
-  padding: 0 10%;
+nav a:last-child {
+  margin-right: 0;
 }
-// Add more styles as needed
+
+/* Lists */
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+/* Sections */
+section {
+  margin-bottom: 2rem;
+}
+
+/* Responsive adjustme
