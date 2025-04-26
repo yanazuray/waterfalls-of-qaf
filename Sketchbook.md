@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sketchbook
-permalink: /sketchbook/
+permalink: /Sketchbook/
 ---
 # Sketchbook
 
