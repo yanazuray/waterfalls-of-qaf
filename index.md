@@ -7,15 +7,13 @@ title: About
 
 I am Yana, a 3D designer and artist from Buryatia, Russia. 
 
-I work in animation, but I am also interested in exploring adjacent fields such as visual arts, installation, and immersive media.
-
+I work in animation, but I am also interested in exploring adjacent fields such as visual arts, installation, and immersive media. 
 Alongside my professional work, I spend much of my time to researching the history and mystical traditions of Islam, as well as the histories of Siberia and its peoples across past, present, and future.
+I publish my personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/). You can also find a random assortment of my musings [here].
 
-I publish my personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/) and [here].
+Twitter/X: [@yiihya](https://x.com/yiihya)
 
-My Twitter/X: [@yiihya](https://x.com/yiihya)
-
-My Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
+Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
 
 I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
 # Currently working on...
@@ -42,8 +40,10 @@ I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
 * René Guénon — Man and His Becoming According to the Vedanta
 * Satischandra Chatterjee — An Introduction to Indian Philosophy
 * The Mahabharata
-_______
+---
 * Vladimir Nabokov — Speak, Memory
 * Nicholas Morton — The Mongol Storm: Making and Breaking Empires in the Medieval Near East
+
+---
 
 Big thanks to [Tommy](https://tommytrinh.me/) for helping me set up this website!
