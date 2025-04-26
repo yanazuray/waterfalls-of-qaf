@@ -8,7 +8,9 @@ title: Home
 I am Yana, a 3D designer and artist born and raised in Buryatia, Russia.
 
 I work in animation, but I am also interested in exploring adjacent fields such as visual arts, installation, and immersive media. Here is my most recent [Demo Reel](https://youtu.be/Dnxk9-hhxCg).
+
 Alongside my professional work, I research the history and mystical traditions of Islam, as well as the histories of Siberia and its peoples across the past, present, and future. I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
+
 You can find a random assortment of my musings [here](https://yanazuray.me/Blog). I also also publish personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/).
 
 Twitter/X: [@yiihya](https://x.com/yiihya)

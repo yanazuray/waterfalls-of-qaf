@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Contact.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Contact"
             }
           }
         ]
@@ -179,16 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12182e3dd01d3d38",
+  "active": "a2a484fef02ef256",
   "lastOpenFiles": [
-    "favicon-32x32.png",
-    "Contact.md",
     "Sketchbook.md",
+    "index.md",
+    "favicon-32x32.png",
+    "Resources.md",
+    "Contact.md",
+    "Blog.md",
     "assets/sketchbook/Go783_SW8AEBUxP.jpeg",
     "assets/sketchbook.md",
-    "Resources.md",
-    "index.md",
-    "Blog.md",
     "assets/sketchbook/Pasted image 20250426010013.png",
     "assets/sketchbook/Pasted image 20250426010004.png",
     "assets/sketchbook/Pasted image 20250426005955.png",
@@ -208,7 +208,6 @@
     "Resources.md.md",
     "Contact.md.md",
     "assets/css/styles.css",
-    "Go783_SW8AEBUxP.jpeg",
     "_site/sketchbook/index.html",
     "_site/sketchbook",
     "_site/Sketchbook.md.html",
