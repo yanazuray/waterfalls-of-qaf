@@ -7,7 +7,7 @@ permalink: /Sketchbook/
 
 My collection of recent drawings, studies, and experiments; currently under development!
 ## 2025
-![[assets/sketchbook/Go783_SW8AEBUxP.jpeg|300]]
+![Leaf Study](assets/sketchbook/Go783_SW8AEBUxP.jpeg|300)
 
 ![[assets/sketchbook/Pasted image 20250426005850.png|400]]
 
