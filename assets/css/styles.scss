@@ -20,12 +20,20 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Links */
 a {
-  color: #F5F5F5;
-  text-decoration: none;
+  color: #ffe7a8;
+  text-decoration: underline;
   
   &:hover {
     text-decoration: underline;
   }
+}
+
+/* External Links Icon */
+a[href^="http"]:not([href*="yourdomain.com"])::after {
+  content: " \2197";
+  font-size: 0.8em;
+  margin-left: 4px;
+  vertical-align: middle;
 }
 
 /* Navigation */
