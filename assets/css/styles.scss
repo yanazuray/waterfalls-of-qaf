@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Links */
 a {
-  color: #ffe7a8;
+  color: #c9b6fc;
   text-decoration: underline;
   
   &:hover {
@@ -30,28 +30,20 @@ a {
 
 /* External Links Icon */
 a[href^="http"]:not([href*="yourdomain.com"])::after {
-  content: " \2197";
+  content: ""; /* No icon normally */
+  display: inline-block;
   font-size: 0.8em;
   margin-left: 4px;
   vertical-align: middle;
+  opacity: 0;
+  transform: translateY(-2px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
 }
 
-/* Navigation */
-nav {
-  display: flex;
-  padding: 2rem 0;
-}
-
-nav a {
-  color: #F5F5F5;
-  text-decoration: none;
-  margin-right: 2rem;
-  font-size: 1.0rem;
-  transition: color 0.2s ease;
-}
-
-nav a:last-child {
-  margin-right: 0;
+a[href^="http"]:not([href*="yourdomain.com"]):hover::after {
+  content: " \279A"; /* Arrow appears on hover */
+  opacity: 1;
+  transform: translateY(0);
 }
 
 /* Lists */
