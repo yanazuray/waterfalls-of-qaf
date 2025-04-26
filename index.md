@@ -7,7 +7,7 @@ title: Home
 
 I am Yana, a 3D designer and artist from Buryatia, Russia. 
 
-I work in animation, but I am also interested in exploring adjacent fields such as visual arts, installation, and immersive media. Here is my Demo Reel.
+I work in animation, but I am also interested in exploring adjacent fields such as visual arts, installation, and immersive media. Here is my most recent [Demo Reel](https://youtu.be/Dnxk9-hhxCg).
 Alongside my professional work, I research the history and mystical traditions of Islam, as well as the histories of Siberia and its peoples across the past, present, and future.
 I publish my personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/). You can also find a random assortment of my musings [here](https://yanazuray.me/Blog).
 
