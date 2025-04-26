@@ -17,7 +17,7 @@ Twitter/X: [@yiihya](https://x.com/yiihya)
 
 Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
 
----
+Check out my [Resources](https://yanazuray.me/Resources) page for a compilation of links to materials on all possible topics that interest me. It is updated regularly.
 # Currently working on...
 
 * A Leaf Sculpture Project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
