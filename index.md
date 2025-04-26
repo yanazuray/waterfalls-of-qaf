@@ -44,7 +44,6 @@ Check out my [Resources](https://yanazuray.me/Resources) page for a compilation 
 * Satischandra Chatterjee — *An Introduction to Indian Philosophy*
 * *The Mahabharata*
 
----
 * Vladimir Nabokov — *Speak, Memory*
 * Nicholas Morton — *The Mongol Storm: Making and Breaking Empires in the Medieval Near East*
 

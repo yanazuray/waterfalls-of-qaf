@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Reading List
-permalink: /reading-list/
+permalink: /readinglist/
 ---
 # Reading List
