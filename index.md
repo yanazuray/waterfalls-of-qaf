@@ -5,17 +5,15 @@ title: Home
 
 # About
 
-I am Yana, a 3D designer and artist from Buryatia, Russia. 
+I am Yana, a 3D designer and artist born and raised in Buryatia, Russia.
 
 I work in animation, but I am also interested in exploring adjacent fields such as visual arts, installation, and immersive media. Here is my most recent [Demo Reel](https://youtu.be/Dnxk9-hhxCg).
-Alongside my professional work, I research the history and mystical traditions of Islam, as well as the histories of Siberia and its peoples across the past, present, and future.
-I publish my personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/). You can also find a random assortment of my musings [here](https://yanazuray.me/Blog).
+Alongside my professional work, I research the history and mystical traditions of Islam, as well as the histories of Siberia and its peoples across the past, present, and future. I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
+You can find a random assortment of my musings [here](https://yanazuray.me/Blog). I also also publish personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/).
 
 Twitter/X: [@yiihya](https://x.com/yiihya)
 
 Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
-
-I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
 # Currently working on...
 
 * A Leaf Sculpture Project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
@@ -33,6 +31,7 @@ I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
 * Helped translate parts of [The Expedition to Khiva](https://www.amazon.com/Expedition-Khiva-Maksud-Alikhanov-Avarsky/dp/B0DWZ2SN2C/ref=sr_1_1?crid=1XGWR9J32JDGV&dib=eyJ2IjoiMSJ9.W8AHCphq6FyzxIHLJ6RuJxdFTMiVI98Tjwp-887SBKMUVeBJUvLd_9zKMUONOwqyTQ-lMM67Rj-sefWZul_aG6p5vVgoWV5yNlVzs7zFe99fZpMTkWxwDWUH6r4wjTM5kjKoXbrhT9Am93ZNafYVO3kmHNrD3e52zjJI3tJo5YQ.G-RO3pMh5mp2bFrG9HRgraFkqasBFIwqiJpDe1UfM-c&dib_tag=se&keywords=Khiva+memoirs&qid=1745641648&s=books&sprefix=khiva+memoirs%2Cstripbooks-intl-ship%2C86&sr=1-1), a firsthand account of Russia's campaign in Central Asia
 * Worked on [LEGO Pixar: BrickToon](https://www.imdb.com/title/tt33241834/) and [LEGO Star Wars: Rebuild the Galaxy](https://www.imdb.com/title/tt32306451/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Rebuild%2520the%2520Galaxy)
 * Designed logo and business cards for [Pickthall House](https://pickthallhouse.org/), a UK foreign policy think tank.
+* ....
 
 # Reading/Read
 
