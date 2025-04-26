@@ -11,13 +11,13 @@ I work in animation, but I am also interested in exploring adjacent fields such 
 
 Alongside my professional work, I research the history and mystical traditions of Islam, as well as the histories of Siberia and its peoples across the past, present, and future. I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
 
-You can find a random assortment of my musings [here](https://yanazuray.me/Blog). I also also publish personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/).
+You can find a random assortment of my musings [here](https://yanazuray.me/Blog). I also publish personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/).
 
 Twitter/X: [@yiihya](https://x.com/yiihya)
 
 Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
 
-Check out my [Resources](https://yanazuray.me/Resources) page for a compilation of links to materials on all possible topics that interest me. It is updated regularly.
+Check out my [Resources](https://yanazuray.me/Resources) page for a curated selection of materials I find interesting. It’s updated regularly.
 # Currently working on...
 
 * A Leaf Sculpture Project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
@@ -49,4 +49,4 @@ Check out my [Resources](https://yanazuray.me/Resources) page for a compilation 
 
 ---
 
-Big thanks to [Tommy](https://x.com/tommytrxnh) for inspiring me to create my own website and for helping set it up — I recommend you follow his [blog](https://tommytrinh.me/)!
+Big thanks to [Tommy](https://x.com/tommytrxnh) for inspiring me to create my own website and for helping set it up — I recommend you follow his blog [here](https://tommytrinh.me/)!
