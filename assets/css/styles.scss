@@ -28,24 +28,6 @@ a {
   }
 }
 
-/* External Links Icon */
-a[href^="http"]:not([href*="yourdomain.com"])::after {
-  content: ""; /* No icon normally */
-  display: inline-block;
-  font-size: 0.8em;
-  margin-left: 4px;
-  vertical-align: middle;
-  opacity: 0;
-  transform: translateY(-2px);
-  transition: opacity 0.2s ease, transform 0.2s ease;
-}
-
-a[href^="http"]:not([href*="yourdomain.com"]):hover::after {
-  content: " \279A"; /* Arrow appears on hover */
-  opacity: 1;
-  transform: translateY(0);
-}
-
 /* Lists */
 ul {
   padding-left: 20px;

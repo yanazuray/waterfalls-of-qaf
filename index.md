@@ -21,7 +21,8 @@ I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
 # Currently working on...
 
 * A Leaf Sculpture Project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
-* SMM and writing for [Kasurian](https://www.kasurian.com) (currently writing an essay on the Jadid movement)
+* SMM and writing for [Kasurian](https://www.kasurian.com)
+* An essay on the Jadid movement
 * Siberian Sky Burial Art Installation (more information coming soon)
 * Malakut: Mythos Tracker (an app that records, organizes, and maps motifs, symbols, characters, and stories across different cultures, times, and regions)
 * My Sanskrit reading skills (slowly but surely)
