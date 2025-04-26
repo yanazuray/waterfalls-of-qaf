@@ -20,11 +20,11 @@ Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
 Check out my [Resources](https://yanazuray.me/Resources) page for a curated selection of materials I find interesting. It’s updated regularly.
 # Currently working on...
 
-* A Leaf Sculpture Project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
+* A Leaf Sculpture project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
 * SMM and writing for [Kasurian](https://www.kasurian.com)
 * An essay on the Jadid movement
 * Siberian Sky Burial Art Installation (more information coming soon)
-* Malakut: Mythos Tracker (an app that records, organizes, and maps motifs, symbols, characters, and stories across different cultures, times, and regions)
+* Malakut: Mythos Tracker (an app that records, organizes, and maps motifs, symbols, and stories across different cultures, times, and regions)
 * My Sanskrit reading skills (slowly but surely)
 * ...
 
