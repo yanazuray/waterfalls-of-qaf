@@ -22,4 +22,37 @@ a {
   }
 }
 
+/* Navigation styling */
+nav {
+  display: flex;
+  padding: 2rem 0;
+  
+  a {
+    color: #F5F5F5;
+    text-decoration: none;
+    margin-right: 2rem; /* Adds space between nav items */
+    font-size: 1.1rem;
+    transition: color 0.2s ease;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+    
+    &:last-child {
+      margin-right: 0; /* Removes margin from last item */
+    }
+  }
+}
+
+/* Optional: To center the navigation like in Tommy's example */
+header {
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+}
+
+/* Make sure there's good left margin/padding on the content */
+body {
+  padding: 0 10%;
+}
 // Add more styles as needed
