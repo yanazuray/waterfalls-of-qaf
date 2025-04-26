@@ -66,13 +66,14 @@ nav a {
   transition: color 0.2s ease;
 
   &:hover {
-    color: #fffade; /* Same color on hover if you want */
+    color: #fffade;
     text-decoration: underline;
   }
 
   &:visited {
-    color: #fffade; /* Force visited links to stay same color */
-}
+    color: #fffade;
+  }
+}  /* <-- this was missing! */
 
 nav a:last-child {
   margin-right: 0;
