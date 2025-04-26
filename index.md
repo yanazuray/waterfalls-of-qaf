@@ -16,6 +16,8 @@ You can find a random assortment of my musings [here](https://yanazuray.me/Blog)
 Twitter/X: [@yiihya](https://x.com/yiihya)
 
 Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
+
+---
 # Currently working on...
 
 * A Leaf Sculpture Project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
@@ -37,13 +39,14 @@ Siberian Aesthetics account: [@mythosiberia](https://x.com/mythosiberia)
 
 # Reading/Read
 
-* Adeeb Khalid — *The Politics of Muslim Cultural Reform
-* René Guénon — *Man and His Becoming According to the Vedanta
-* Satischandra Chatterjee — *An Introduction to Indian Philosophy
-* *The Mahabharata
+* Adeeb Khalid — *The Politics of Muslim Cultural Reform*
+* René Guénon — *Man and His Becoming According to the Vedanta*
+* Satischandra Chatterjee — *An Introduction to Indian Philosophy*
+* *The Mahabharata*
+
 ---
-* Vladimir Nabokov — *Speak, Memory
-* Nicholas Morton — *The Mongol Storm: Making and Breaking Empires in the Medieval Near East
+* Vladimir Nabokov — *Speak, Memory*
+* Nicholas Morton — *The Mongol Storm: Making and Breaking Empires in the Medieval Near East*
 
 ---
 
