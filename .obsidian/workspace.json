@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sketchbook.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Sketchbook.md"
             }
           }
         ],
@@ -196,9 +196,12 @@
   },
   "active": "d32e1820c8a6f259",
   "lastOpenFiles": [
+    "_site/Blog.md.md",
+    "Resources.md.md",
+    "Contact.md.md",
+    "index.md",
     "assets/css/styles.css",
     "Go783_SW8AEBUxP.jpeg",
-    "index.md",
     "Sketchbook.md.md",
     "_site/Pasted image 20250426010013.png",
     "Pasted image 20250426010013.png",
@@ -212,13 +215,10 @@
     "_site/sketchbook/index.html",
     "_site/sketchbook",
     "_site/Sketchbook.md.html",
-    "Contact.md.md",
     "_site/Contact.md.md",
     "_site/Untitled.md",
-    "Resources.md.md",
     "_site/Resources.md.md",
     "Blog.md.md",
-    "_site/Blog.md.md",
     "_site/Sketchbook.md.md",
     "New folder",
     "_site/assets/css/styles.css.map",
@@ -226,7 +226,6 @@
     "assets/css/styles.scss",
     "_site/assets/css/style.css",
     "_site/assets/css/styles.scss",
-    "_site/assets/css/style.scss",
     "_site/2025-04-21.md",
     "2025-04-21.md",
     "_posts/2025-04-21-about.md",
