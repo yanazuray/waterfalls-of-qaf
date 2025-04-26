@@ -64,6 +64,14 @@ nav a {
   margin-right: 2rem;
   font-size: 1.1rem;
   transition: color 0.2s ease;
+
+  &:hover {
+    color: #fffade; /* Same color on hover if you want */
+    text-decoration: underline;
+  }
+
+  &:visited {
+    color: #fffade; /* Force visited links to stay same color */
 }
 
 nav a:last-child {
