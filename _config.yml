@@ -18,3 +18,7 @@ defaults:
     values:
       layout: "default"
 baseurl: /waterfalls-of-qaf
+
+sass:
+  sass_dir: _sass
+  style: compressed
