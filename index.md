@@ -49,4 +49,4 @@ Check out my [Resources](https://yanazuray.me/Resources) page for a compilation 
 
 ---
 
-Big thanks to [Tommy](https://tommytrinh.me/) for inspiring me to create my own website and for helping me set it up!
+Big thanks to [Tommy](https://x.com/tommytrxnh) for inspiring me to create my own website and for helping set it up — I recommend you follow his [blog](https://tommytrinh.me/)!
