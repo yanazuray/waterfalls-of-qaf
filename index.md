@@ -11,7 +11,7 @@ I work in animation, but I am also interested in exploring adjacent fields such 
 
 Alongside my professional work, I spend much of my time to researching the history and mystical traditions of Islam, as well as the histories of Siberia and its peoples across past, present, and future.
 
-I publish my personal reflections and essays on mysticism at [**Waterfalls of Qaf**](https://waterfallsofqaf.substack.com/) and [here].
+I publish my personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/) and [here].
 
 My Twitter/X: [@yiihya](https://x.com/yiihya)
 
