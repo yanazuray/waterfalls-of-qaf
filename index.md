@@ -36,13 +36,13 @@ I spend most of my time between Toronto, London, and my hometown, Ulan-Ude.
 
 # Reading/Read
 
-* Adeeb Khalid — The Politics of Muslim Cultural Reform
-* René Guénon — Man and His Becoming According to the Vedanta
-* Satischandra Chatterjee — An Introduction to Indian Philosophy
-* The Mahabharata
+* Adeeb Khalid — *The Politics of Muslim Cultural Reform
+* René Guénon — *Man and His Becoming According to the Vedanta
+* Satischandra Chatterjee — *An Introduction to Indian Philosophy
+* *The Mahabharata
 ---
-* Vladimir Nabokov — Speak, Memory
-* Nicholas Morton — The Mongol Storm: Making and Breaking Empires in the Medieval Near East
+* Vladimir Nabokov — *Speak, Memory
+* Nicholas Morton — *The Mongol Storm: Making and Breaking Empires in the Medieval Near East
 
 ---
 
