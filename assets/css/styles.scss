@@ -20,11 +20,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Links */
 a {
-  color: fffade;
+  color: #fffade; /* Your soft gold */
   text-decoration: underline;
-  
+  transition: color 0.3s ease;
+
   &:hover {
+    color: #fffade; /* Same color on hover if you want */
     text-decoration: underline;
+  }
+
+  &:visited {
+    color: #fffade; /* Force visited links to stay same color */
   }
 }
 
