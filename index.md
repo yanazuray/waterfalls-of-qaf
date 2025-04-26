@@ -31,10 +31,10 @@ Check out my [Resources](https://yanazuray.me/Resources) page for a compilation 
 # Recent Projects
 
 * Wrote an essay on [the Mongols and Islamic Civilisation](https://kasurian.com/p/mongol-invasions-revival), exploring the impact of Mongol rule on Muslim lands and Islam’s mechanisms of challenge and response
-* Made maps for [Ignatius Hanulla's compendium-history on the Russian Civil War](https://www.amazon.com/Memoir-History-Russian-Civil-War/dp/B0DD45Q9T2/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.PWc13hB_TciGrXrlXWSL-iB35AlPGVi00PnZ_JIimmyRsuqobltzwbD5V_lkdC20joSAYTCrbifD6eln2koDnQXDWO62aWy2ltwa3DQSaaj9csKQQojrMrBONBkJtaLcM_lQCZYd9o5OBk2jhjS2O3me5taTquG4O4HwZlmuHlEOBxvfdII_rS_6XuJeSuTCWf6IgpeeM7bNI77Grs49b6xn1czDlptdsd-haMJ4Aq3XTabA5gEiHmOXUCmfX8TRi9Z5TOx9EWi7whTqcWpYBeZs4udP6ghE5BmyHQWGeuM.IGHleeljSPypQ0S9svChdKdWUWOV1uXzzjsFqHDyUdE&qid=1745641509&sr=8-11), a memoir of the Russian Civil War, and the most comprehensive work on the White Armies to date
+* Made maps for [Ignatius Hanulla's compendium-history on the Russian Civil War](https://www.amazon.com/Memoir-History-Russian-Civil-War/dp/B0DD45Q9T2/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.PWc13hB_TciGrXrlXWSL-iB35AlPGVi00PnZ_JIimmyRsuqobltzwbD5V_lkdC20joSAYTCrbifD6eln2koDnQXDWO62aWy2ltwa3DQSaaj9csKQQojrMrBONBkJtaLcM_lQCZYd9o5OBk2jhjS2O3me5taTquG4O4HwZlmuHlEOBxvfdII_rS_6XuJeSuTCWf6IgpeeM7bNI77Grs49b6xn1czDlptdsd-haMJ4Aq3XTabA5gEiHmOXUCmfX8TRi9Z5TOx9EWi7whTqcWpYBeZs4udP6ghE5BmyHQWGeuM.IGHleeljSPypQ0S9svChdKdWUWOV1uXzzjsFqHDyUdE&qid=1745641509&sr=8-11) — a memoir of the Russian Civil War and the most comprehensive work on the White Armies to date
 * Helped translate parts of [The Expedition to Khiva](https://www.amazon.com/Expedition-Khiva-Maksud-Alikhanov-Avarsky/dp/B0DWZ2SN2C/ref=sr_1_1?crid=1XGWR9J32JDGV&dib=eyJ2IjoiMSJ9.W8AHCphq6FyzxIHLJ6RuJxdFTMiVI98Tjwp-887SBKMUVeBJUvLd_9zKMUONOwqyTQ-lMM67Rj-sefWZul_aG6p5vVgoWV5yNlVzs7zFe99fZpMTkWxwDWUH6r4wjTM5kjKoXbrhT9Am93ZNafYVO3kmHNrD3e52zjJI3tJo5YQ.G-RO3pMh5mp2bFrG9HRgraFkqasBFIwqiJpDe1UfM-c&dib_tag=se&keywords=Khiva+memoirs&qid=1745641648&s=books&sprefix=khiva+memoirs%2Cstripbooks-intl-ship%2C86&sr=1-1), a firsthand account of Russia's campaign in Central Asia
 * Worked on [LEGO Pixar: BrickToon](https://www.imdb.com/title/tt33241834/) and [LEGO Star Wars: Rebuild the Galaxy](https://www.imdb.com/title/tt32306451/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Rebuild%2520the%2520Galaxy)
-* Designed logo and business cards for [Pickthall House](https://pickthallhouse.org/), a UK foreign policy think tank.
+* Designed logo and business cards for [Pickthall House](https://pickthallhouse.org/), a UK foreign policy think tank
 * ....
 
 # Reading/Read
@@ -49,4 +49,4 @@ Check out my [Resources](https://yanazuray.me/Resources) page for a compilation 
 
 ---
 
-Big thanks to [Tommy](https://tommytrinh.me/) for helping me set up this website!
+Big thanks to [Tommy](https://tommytrinh.me/) for inspiring me to create my own website and for helping me set it up!
