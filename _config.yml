@@ -1,3 +1,9 @@
+title: Waterfalls of Qaf
+description: >- 
+  A personal website.
+baseurl: "" # Important: No spaces after the colon except the empty quotes
+url: "https://yanazuray.me"
+
 collections:
   authors:
     output: true
@@ -17,7 +23,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-baseurl: ""
 
 sass:
   sass_dir: _sass
