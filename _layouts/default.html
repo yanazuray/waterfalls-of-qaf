@@ -1,25 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <title>{{ page.title }}</title>
+  
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   
   <!-- Favicons -->
   <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="manifest" href="/manifest.json">
-  <!-- (etc — all the other generated tags) -->
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Home" />
+  <meta property="og:description" content="A collection of notes and musings." />
+  <meta property="og:image" content="https://yanazuray.me/assets/images/moon.jpg" />
+  <meta property="og:url" content="https://yanazuray.me/" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Card Meta Tags (optional but recommended) -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Home" />
+  <meta name="twitter:description" content="A collection of notes and musings." />
+  <meta name="twitter:image" content="https://yanazuray.me/assets/images/moon.jpg" />
 
 </head>
 <body>
-<nav>
-  <a href="{{ site.baseurl }}/">Home</a>
-  <a href="{{ site.baseurl }}/Sketchbook">Sketchbook</a>
-  <a href="{{ site.baseurl }}/Blog">Blog</a>
-  <a href="{{ site.baseurl }}/Resources">Resources</a>
-  <a href="{{ site.baseurl }}/Reading List">Reading List</a>
-  <a href="{{ site.baseurl }}/Contact">Contact</a>
-</nav>
+  <nav>
+    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/Sketchbook">Sketchbook</a>
+    <a href="{{ site.baseurl }}/Blog">Blog</a>
+    <a href="{{ site.baseurl }}/Resources">Resources</a>
+    <a href="{{ site.baseurl }}/Reading List">Reading List</a>
+    <a href="{{ site.baseurl }}/Contact">Contact</a>
+  </nav>
   <div class="container">
     {{ content }}
   </div>
