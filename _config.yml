@@ -17,7 +17,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-baseurl: /waterfalls-of-qaf
+baseurl: ""
 
 sass:
   sass_dir: _sass
