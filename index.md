@@ -49,4 +49,4 @@ Check out my [Resources](https://yanazuray.me/Resources) page for a curated sele
 
 ---
 
-Big thanks to [Tommy](https://x.com/tommytrxnh) for inspiring me to create my own website and for helping set it up — I recommend you follow his blog [here](https://tommytrinh.me/)!
+Big thanks to [Tommy](https://x.com/tommytrxnh) for walking me through the setup of this website — I highly recommend following his blog [here](https://tommytrinh.me/)!
