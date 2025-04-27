@@ -18,7 +18,10 @@ Twitter/X: [@yiihya](https://x.com/yiihya) — aesthetics, history, assorted mis
 
 Check out my [Resources](https://yanazuray.me/Resources) page for a curated selection of materials I find interesting. It is updated regularly.
 
-If you have a project in mind and are interested in working together, please feel free to contact me at yanazuray@gmail.com.
+If you have a project in mind and are interested in working together, please feel free to contact me at yanazuray@gmail.com; and if you wish to support my work, [buy me a coffee](https://ko-fi.com/yanazuray).
+
+With love,
+ᠶᠠᠨᠠ
 # Currently working on...
 
 * A Leaf Sculpture project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
