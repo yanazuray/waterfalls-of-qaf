@@ -23,7 +23,7 @@ If you have a project in mind and are interested in working together, please fee
 
 
 
-With love,
+*With love,*
 
 ᠶᠠᠨᠠ
 # Currently working on...
