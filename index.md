@@ -21,6 +21,8 @@ Check out my [Resources](https://yanazuray.me/Resources) page for a curated sele
 
 If you have a project in mind and are interested in working together, please feel free to contact me at yanazuray@gmail.com, and if you wish to support my work, [buy me a coffee](https://ko-fi.com/yanazuray).
 
+
+
 With love,
 
 ᠶᠠᠨᠠ
@@ -33,6 +35,7 @@ With love,
 * Malakut: Mythos Tracker — an app that records, organizes, and maps motifs, symbols, and stories across different cultures, times, and regions
 * Recreating a Siberian landscape in Unreal Engine
 * My Sanskrit reading skills (slowly but surely)
+* ...
 
 # Recent Projects
 
@@ -43,6 +46,7 @@ With love,
 * Worked on [LEGO Pixar: BrickToon](https://www.imdb.com/title/tt33241834/), [LEGO Star Wars: Rebuild the Galaxy](https://www.imdb.com/title/tt32306451/?ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_Rebuild%2520the%2520Galaxy), and [LEGO Avengers: Mission Demolition](https://www.imdb.com/title/tt33653255/)
 * Designed logo and business cards for [Pickthall House](https://pickthallhouse.org/), a UK foreign policy think tank
 * Mentored animation students at [Centre for Entertainment Arts](https://www.thecea.ca/)
+* ...
 
 # Reading/Read
 
