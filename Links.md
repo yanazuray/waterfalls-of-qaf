@@ -121,17 +121,17 @@ Over the past few years, I have amassed a collection of links to essays, article
 
 # Personal Translation Projects, Classical Texts
 
-[Ormulus](https://ormulus.substack.com/) Personal translation project focusing on Evola, Guénon, Jünger, and related authors.
+[Ormulus](https://ormulus.substack.com/) Translations of Evola, Guénon, Jünger, and related authors.
 
-[Canina Littera](https://caninalittera.blogspot.com/p/curriculum.html) Personal translation project of Plato, Seneca, Marcus Aurelius, and others.
+[Canina Littera](https://caninalittera.blogspot.com/p/curriculum.html) Translations of Plato, Seneca, Marcus Aurelius, and others.
 
-[The Mioritic Space](https://mioriticspace.substack.com/) Personal translation project focusing on forgotten Romanian classics; history, philosophy, literature.
+[The Mioritic Space](https://mioriticspace.substack.com/) Translations of forgotten Romanian classics.
 
-[Jünger Translation Project](https://juengertranslationproject.substack.com/) Translation project dedicated to the works of Ernst and Friedrich Georg Jünger.
+[Jünger Translation Project](https://juengertranslationproject.substack.com/) Translations of Ernst and Friedrich Georg Jünger's works.
 
 # Ethnography: Buryatia, Siberia
 
-[Uzec](https://www.youtube.com/@uzecTV/) Recordings of Buryat epics and poetry, in Russian and Buryat.
+[Uzec](https://www.youtube.com/@uzecTV/) Rare recordings of Buryat epics and poetry, in Russian and Buryat.
 
 [Theatre Baikal](https://www.youtube.com/@TheatreBaikal) Buryatia's largest music YouTube channel.
 
