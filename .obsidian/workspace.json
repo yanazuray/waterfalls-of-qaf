@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List.md",
+                "file": "Links.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Reading List"
+              "title": "Links"
             }
           }
         ],
@@ -196,21 +196,20 @@
   },
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
-    "links.md",
-    "Reading List.md",
     "index.md",
     "Links.md",
-    "Resources DRAFT.md",
-    "Recommended Essays.md",
-    "in.md",
     "Sketchbook.md",
+    "Reading List.md",
+    "Recommended Essays.md",
+    "favicon-48x48.png",
     "Blog.md",
+    "Resources DRAFT.md",
+    "in.md",
     "Contact.md",
     "assets/images/ps2BC5.tmp",
     "assets/images/psB9D1.tmp",
     "assets/images/psA30F.tmp",
     "assets/images/moon.jpg",
-    "favicon-48x48.png",
     "favicon-32x32.png",
     "assets/sketchbook/Go783_SW8AEBUxP.jpeg",
     "assets/sketchbook.md",
@@ -241,7 +240,6 @@
     "_site/Sketchbook.md.md",
     "_site/2025-04-21.md",
     "2025-04-21.md",
-    "_posts/2025-04-21-about.md",
     "Untitled.canvas"
   ]
 }
