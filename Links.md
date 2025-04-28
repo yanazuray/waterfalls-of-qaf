@@ -5,7 +5,7 @@ permalink: /links/
 ---
 # Links
 
-Over the past few years, I have compiled a collection of links to essays, articles, threads, online libraries, databases, music channels, all ranging from the mainstream to the more obscure and eclectic. My aim is to organize them for my own reference and to share them with the public. It is updated regularly.
+Over the past few years, I have compiled a collection of links to essays, articles, threads, online libraries, databases, music channels, all ranging from the mainstream to the more obscure and eclectic. I would like to keep them here for reference purposes, and hope they will be of use to others as well. It is updated regularly.
 ## Archives, Libraries, Reading Collections
 
 - [Library of Congress](https://www.loc.gov/)
