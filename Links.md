@@ -5,8 +5,11 @@ permalink: /Links/
 ---
 # Links
 
-Over the past few years, I have amassed a collection of links to essays, articles, threads, online libraries, databases, and music channels, spanning everything from the general and mainstream to the obscure and eclectic. I am keeping them here for reference and hope they will prove useful to others as well. Keep an eye out; this list is updated regularly. Of course, if you have suggestions, feel free to send me a message.
+Over the past few years, I have amassed a collection of links to essays, articles, threads, online libraries, databases, and music channels, spanning everything from the general and mainstream to the obscure and eclectic. I am keeping them here for reference and hope they will prove useful to others as well.
 
+This list will be updated regularly; I'm still sorting through my bookmarks. Of course, if you have any suggestions, feel free to send me a message.
+
+---
 # Archives, Libraries, Reading Collections
 
 [Library of Congress](https://www.loc.gov/)
@@ -31,6 +34,10 @@ Over the past few years, I have amassed a collection of links to essays, article
 
 [Cambridge Muslim College YouTube channel](https://www.youtube.com/c/CambridgeMuslimCollege) Lectures on Islamic theology, philosophy, and history.
 
+[The Islamic Texts Society](https://its.org.uk/) Publishing house specialising in traditional Islamic scholarship works.
+
+[The Muhyiddin Ibn 'Arabi Society](https://ibnarabisociety.org/) Research foundation dedicated to the works of Ibn 'Arabi, with a slightly perennialist twist.
+
 [Pickthall House](https://www.youtube.com/@PickthallHouse) London-based realist think tank with particular focus on the Muslim world.
 
 [Sadai Salah](https://www.youtube.com/@SadaiSalah/) Translations and recordings of Islamic poetry.
@@ -49,19 +56,15 @@ Over the past few years, I have amassed a collection of links to essays, article
 
 ---
 
-# Traditionalism, Philosophy, Comparative Religion
+# Traditionalism, Comparative Religion, Symbolism
 
 [Temenos Academy](https://www.temenosacademy.org/) A UK-based Perennialist educational institution.
-
-[The Islamic Texts Society](https://its.org.uk/) Publishing house specialising in traditional Islamic scholarship works.
-
-[The Muhyiddin Ibn 'Arabi Society](https://ibnarabisociety.org/) Research foundation dedicated to the works of Ibn 'Arabi, with a slightly perennialist twist.
 
 [Studies in Comparative Religion](http://www.studiesincomparativereligion.com/Public/default.aspx) Journal on traditional studies dedicated to the exploration of metaphysics, symbolism, and the perennial philosophy.
 
 [Orphic Inscendence](https://www.orphicinscendence.com/) A good friend's beautifully curated essays and articles on mysticism and symbolism. Check her [Patreon](https://www.patreon.com/oinscendence) and [Volupta Substack](https://volupta.substack.com/) as well.
 
-[Matheson Trust for the Study of Comparative Religion](https://www.themathesontrust.org/) Do check their library.
+[Matheson Trust for the Study of Comparative Religion](https://www.themathesontrust.org/) *Do check their library.*
 
 [Gornahoor](https://gornahoor.net/) Metaphysics, esotericism, and traditionalist philosophy; has its own small [library](https://gornahoor.net/?page_id=47).
 
@@ -129,7 +132,9 @@ Over the past few years, I have amassed a collection of links to essays, article
 
 [Jünger Translation Project](https://juengertranslationproject.substack.com/) Translations of Ernst and Friedrich Georg Jünger's works.
 
-# Ethnography: Buryatia, Siberia
+---
+
+# Buryatia and Siberia
 
 [Uzec](https://www.youtube.com/@uzecTV/) Rare recordings of Buryat epics and poetry, in Russian and Buryat.
 
@@ -145,11 +150,11 @@ Over the past few years, I have amassed a collection of links to essays, article
 
 [Kets (in Russian)](https://vk.com/club22892836) Everything pertaining to the Kets.
 
-[Evenkiteka (in Russian) (https://vk.com/evenkiteka)] Everything pertaining to the Evenks.
+[Evenkiteka (in Russian)(https://vk.com/evenkiteka)] Everything pertaining to the Evenks.
 
 ---
 
-# Cinema, Film History, and Visual Culture
+# Cinema, Film History, Visuals
 
 [Mosfilm YouTube channel](https://www.youtube.com/c/Mosfilm_eng/) Soviet and Russian films with English subtitles.
 

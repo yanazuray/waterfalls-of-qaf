@@ -31,7 +31,7 @@ If you have a project in mind and are interested in working together, please fee
 * A Leaf Sculpture project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
 * An essay on the Jadid movement for [Kasurian](https://www.kasurian.com)
 * Siberian Sky Burial Art Installation (more information coming soon)
-* Malakut: Mythos Tracker — an app that records, organizes, and maps motifs, symbols, and stories across different cultures, times, and regions
+* Malakut: Mythos Tracker, an app that organizes motifs, symbols, and stories across different cultures, times, and regions
 * Recreating a Siberian landscape in Unreal Engine
 * My Sanskrit reading skills (slowly but surely)
 * ...
@@ -46,17 +46,6 @@ If you have a project in mind and are interested in working together, please fee
 * Designed logo and business cards for [Pickthall House](https://pickthallhouse.org/), a UK foreign policy think tank
 * Mentored animation students at [Centre for Entertainment Arts](https://www.thecea.ca/)
 * ...
-
-# Reading/Read
-
-* Adeeb Khalid — *The Politics of Muslim Cultural Reform*
-* René Guénon — *Man and His Becoming According to the Vedanta*
-* Satischandra Chatterjee — *An Introduction to Indian Philosophy*
-* *The Mahabharata*
-
-* Vladimir Nabokov — *Speak, Memory*
-* Nicholas Morton — *The Mongol Storm: Making and Breaking Empires in the Medieval Near East*
-
 ---
 
 Big thanks to [Tommy](https://x.com/tommytrxnh) for walking me through the setup of this website — I highly recommend following his blog [here](https://tommytrinh.me/)!

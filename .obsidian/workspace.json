@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "index"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
-    "index.md",
     "Links.md",
+    "index.md",
     "Sketchbook.md",
     "Reading List.md",
     "Recommended Essays.md",
