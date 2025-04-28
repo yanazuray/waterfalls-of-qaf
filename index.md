@@ -29,8 +29,7 @@ If you have a project in mind and are interested in working together, please fee
 # Currently working on...
 
 * A Leaf Sculpture project with London-based artist [James Harris](https://www.jamesharris.co.uk/) 
-* SMM and writing for [Kasurian](https://www.kasurian.com)
-* An essay on the Jadid movement
+* An essay on the Jadid movement for [Kasurian](https://www.kasurian.com)
 * Siberian Sky Burial Art Installation (more information coming soon)
 * Malakut: Mythos Tracker — an app that records, organizes, and maps motifs, symbols, and stories across different cultures, times, and regions
 * Recreating a Siberian landscape in Unreal Engine
