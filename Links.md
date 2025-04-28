@@ -5,9 +5,9 @@ permalink: /Links/
 ---
 # Links
 
-Over the past few years, I have amassed a collection of links to essays, articles, threads, online libraries, databases, and music channels, spanning everything from the general and mainstream to the obscure and eclectic. I am keeping them here for reference and hope they will prove useful to others as well.
+Over the past few years, I have amassed a collection of links to essays, articles, threads, online libraries, databases, and music channels, spanning everything from the general and mainstream to the obscure and eclectic. I'm keeping them here for reference and hope they will prove useful to others as well.
 
-This list will be updated regularly; I'm still sorting through my bookmarks. Of course, if you have any suggestions, feel free to send me a message.
+I’m still sorting through my bookmarks, so this list will be updated regularly. Of course, if you have any suggestions, feel free to send me a message.
 
 ---
 # Archives, Libraries, Reading Collections

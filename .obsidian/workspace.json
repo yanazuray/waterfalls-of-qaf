@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Reading-Watching.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Reading-Watching"
             }
           }
         ],
@@ -197,9 +197,9 @@
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
     "Links.md",
+    "Reading-Watching.md",
     "index.md",
     "Sketchbook.md",
-    "Reading List.md",
     "Recommended Essays.md",
     "favicon-48x48.png",
     "Blog.md",

@@ -28,12 +28,12 @@
 
 </head>
 <body>
-  <nav>
+<nav>
   <a href="{{ site.baseurl }}/">Home</a>
-  <a href="{{ site.baseurl }}/Sketchbook">Sketchbook</a>
-  <a href="{{ site.baseurl }}/Blog">Blog</a>
-  <a href="{{ site.baseurl }}/Links">Links</a>
-  <a href="{{ site.baseurl }}/Reading List">Reading List</a>
+  <a href="{{ site.baseurl }}{% link Sketchbook/index.md %}">Sketchbook</a>
+  <a href="{{ site.baseurl }}{% link Blog/index.md %}">Blog</a>
+  <a href="{{ site.baseurl }}{% link Links/index.md %}">Links</a>
+  <a href="{{ site.baseurl }}{% link reading-watching/index.md %}">Reading & Watching</a>
 </nav>
   <div class="container">
     {{ content }}
