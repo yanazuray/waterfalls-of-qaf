@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading-Watching.md",
+                "file": "Sketchbook.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Reading-Watching"
+              "title": "Sketchbook"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
-    "Links.md",
     "Reading-Watching.md",
+    "Links.md",
     "index.md",
     "Sketchbook.md",
     "Recommended Essays.md",
