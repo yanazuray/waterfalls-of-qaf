@@ -5,31 +5,18 @@ permalink: /links/
 ---
 # Links
 
-Over the past few years, I have compiled a collection of links to essays, articles, online libraries, databases, lectures, music channels, all ranging from the mainstream to the more obscure and eclectic. My aim is to organize them for my own reference and to share them with the public. It is updated regularly.
+Over the past few years, I have compiled a collection of links to essays, articles, threads, online libraries, databases, music channels, all ranging from the mainstream to the more obscure and eclectic. My aim is to organize them for my own reference and to share them with the public. It is updated regularly.
 ## Archives, Libraries, Reading Collections
 
-- [Serpentarium Mundi](https://www.serpentarium.org/curator.html) Ancient Ophidian Iconography.
-    
-- [History and Archaeology of Eurasia](https://journal.asu.ru/wv/issue/archive) Entire archive from 2007 to the present is available for free download. Most articles are in Russian.
-    
-- [Russian White émigré book channel (in Russian)](https://t.me/emigrantbooks)
-    
-- [Sanskrit Resources (in Russian)](https://samskrtam.ru/)
-    
 - [Library of Congress](https://www.loc.gov/)
-    
 - [European Film Gateway](https://www.europeanfilmgateway.eu/) Thousands of films, images, and documents from European film archives.
-    
 - [Islamic Heritage Project](https://library.harvard.edu/collections/islamic-heritage-project) A digital collection of Islamic manuscripts, published texts, and maps.
-    
 - [Al-Shamela](https://shamela.ws/) Arabic digital library.
-    
 - [Inquizitor Library (in Russian)](https://t.me/Inquizitor_Library) Books on all things esoterica, philosophy, and folklore.
-    
+- [History and Archaeology of Eurasia](https://journal.asu.ru/wv/issue/archive) Entire archive from 2007 to the present is available for free download. Most articles are in Russian.
+- [Russian White émigré book channel (in Russian)](https://t.me/emigrantbooks)
 - [History Books (in Russian)](https://t.co/UWjRFtrL3U)
-    
 - [Books on shamanism and Siberian traditions (in Russian)](https://vk.com/knigi_po_shamanizmy)
-    
 
 ---
 
@@ -92,7 +79,8 @@ Over the past few years, I have compiled a collection of links to essays, articl
 - [Gornahoor](https://gornahoor.net/) Metaphysics, esotericism, and traditionalist philosophy; has its own small [library](https://gornahoor.net/?page_id=47).
     
 - [Esme Partridge](https://www.esmelkpartridge.com/) Platonism, Renaissance thought, and perennial philosophy.
-    
+- 
+-  [Serpentarium Mundi](https://www.serpentarium.org/curator.html) Ancient Ophidian Iconography.
 
 ## Music, Traditional Sounds, Rare Recordings
 
@@ -119,7 +107,7 @@ Over the past few years, I have compiled a collection of links to essays, articl
 
 ---
 
-## History, Prehistory, Anthropology, Evolution, Geography
+## History, Anthropology, Geography, Languages
 
 - [Dan Davis History](https://www.youtube.com/@DanDavisHistory) One of the best channels on all things history and prehistory.
     
@@ -137,9 +125,7 @@ Over the past few years, I have compiled a collection of links to essays, articl
     
 - [Stone Age Herbalist X Highlights](https://x.com/Paracelsus1092/highlights)
 
-
 - [Yevardian](https://x.com/haravayin_hogh/highlights) History threads focused on Eurasian and world events.
-
 
 - [Alexander's Cartographer](https://x.com/cartographer_s/highlights) History and art threads, translation works primarily focused on Central Asia.
 
@@ -152,10 +138,9 @@ Over the past few years, I have compiled a collection of links to essays, articl
 - [The Extinctions](https://www.theextinctions.com/) Project dedicated to the exploration of the Quaternary Extinctions (mass species die-offs over the past ~50,000 years).
     
 - [Coeling Chronicler](https://www.arthwys.com/) Articles on King Arthur and the Brythonic Heroic Age.
-- 
 - [Jacob Shell](https://jacobshell.carbonmade.com/) Transportation, urban geography, speculative futures.
-
-- [Works in Progress](https://worksinprogress.co/) Magazine about human progress and innovation across science, cities, education, and culture.
+[Sanskrit Resources (in Russian)](https://samskrtam.ru/)
+[Sā́mapriyaḣ](https://x.com/avzaagzonunaada) Descriptive and historical linguistics of the Caucasus, the Indian subcontinent, the Pacific Northwest, and more.
 
 ---
 
