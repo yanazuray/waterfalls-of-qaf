@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Links
+title: links
 permalink: /links/
 ---
 # Links
