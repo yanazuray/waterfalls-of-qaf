@@ -1,7 +1,7 @@
 ---
 layout: default
-title: links
-permalink: /links/
+title: Links
+permalink: /Links/
 ---
 # Links
 
