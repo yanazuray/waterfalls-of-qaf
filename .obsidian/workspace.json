@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
+                "file": "sketchbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans"
+              "title": "sketchbook"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans"
+              "title": "Outline of index"
             }
           },
           {
@@ -197,13 +197,13 @@
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
     "blog.md",
-    "index.md",
-    "links.md",
     "sketchbook.md",
+    "links.md",
+    "index.md",
+    "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
     "Resources DRAFT.md",
     "Recommended Essays.md",
     "favicon-48x48.png",
-    "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
     "Reading-Watching.md",
     "_authors/yana.md",
     "_authors/ted.md",
