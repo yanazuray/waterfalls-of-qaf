@@ -109,22 +109,27 @@ section {
 
 ul.post-list {
   list-style: none;
-  padding: 0;
+  padding-left: 0;
   margin: 2rem 0;
 }
 
 ul.post-list li {
-  margin: 1.2rem 0;
+  margin-bottom: 1.2rem;
 }
 
 ul.post-list li h3.post-title {
   font-size: 1rem;
-  margin: 0;
   font-weight: 500;
+  margin: 0;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   flex-wrap: wrap;
+}
+
+ul.post-list li a {
+  text-decoration: underline;
+  color: inherit;
 }
 
 ul.post-list li .post-date {
@@ -132,9 +137,4 @@ ul.post-list li .post-date {
   color: #aaa;
   margin-left: 1rem;
   white-space: nowrap;
-}
-
-ul.post-list li a {
-  text-decoration: none;
-  color: inherit;
 }
