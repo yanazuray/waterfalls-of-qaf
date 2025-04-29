@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Blog"
+              "title": "index"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Blog"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blog"
+              "title": "Outline of index"
             }
           },
           {
@@ -196,18 +196,18 @@
   },
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
-    "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
+    "Links.md",
+    "Reading-Watching.md",
+    "Recommended Essays.md",
     "Blog.md",
+    "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
     "_authors/yana.md",
     "_authors/ted.md",
     "Pasted image 20250429180627.png",
     "Pasted image 20250429180634.png",
     "index.md",
     "Resources DRAFT.md",
-    "Links.md",
     "favicon-48x48.png",
-    "Recommended Essays.md",
-    "Reading-Watching.md",
     "Pasted image 20250429151506.png",
     "Untitled.md",
     "Sketchbook.md",

@@ -16,5 +16,3 @@ permalink: /reading-watching/
 * Nicholas Morton, *The Mongol Storm: Making and Breaking Empires in the Medieval Near East*
 
 ## Watching
-
-* 

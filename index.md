@@ -46,6 +46,7 @@ If you have a project in mind and are interested in working together, please fee
 * Designed logo and business cards for [Pickthall House](https://pickthallhouse.org/), a UK foreign policy think tank
 * Mentored animation students at [Centre for Entertainment Arts](https://www.thecea.ca/)
 * ...
+* 
 ---
 
 Big thanks to [Tommy](https://x.com/tommytrxnh) for walking me through the setup of this website — I highly recommend following his blog [here](https://tommytrinh.me/)!
