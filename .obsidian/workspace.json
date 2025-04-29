@@ -25,14 +25,12 @@
             "id": "473a30af691aac7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "sketchbook.md",
-                "mode": "source",
-                "source": false
+                "file": "favicon-48x48.png"
               },
-              "icon": "lucide-file",
-              "title": "sketchbook"
+              "icon": "lucide-image",
+              "title": "favicon-48x48"
             }
           }
         ],
@@ -196,15 +194,19 @@
   },
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
-    "blog.md",
-    "sketchbook.md",
+    "Resources DRAFT.md",
+    "reading-watching.md",
     "links.md",
     "index.md",
+    "blog.md",
+    "blog-temp.md",
+    "links-temp.md",
+    "reading-watching-temp.md",
+    "sketchbook-temp.md",
+    "sketchbook.md",
     "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
-    "Resources DRAFT.md",
     "Recommended Essays.md",
     "favicon-48x48.png",
-    "Reading-Watching.md",
     "_authors/yana.md",
     "_authors/ted.md",
     "Pasted image 20250429180627.png",
@@ -238,9 +240,6 @@
     "_site/sketchbook",
     "_site/Sketchbook.md.html",
     "_site/Contact.md.md",
-    "_site/Untitled.md",
-    "_site/Resources.md.md",
-    "Blog.md.md",
     "Untitled.canvas"
   ]
 }
