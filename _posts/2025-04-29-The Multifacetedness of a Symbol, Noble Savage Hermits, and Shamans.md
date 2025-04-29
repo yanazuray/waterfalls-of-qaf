@@ -1,7 +1,7 @@
 ---
 layout: post
 title: test
-date: 2025-01-21
+date: 2025-04-29
 permalink: blog/multifacetedness-of-a-symbol/
 ---
 

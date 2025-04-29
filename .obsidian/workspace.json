@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Blog.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Blog"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Blog"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Blog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Blog"
             }
           },
           {
@@ -210,11 +210,11 @@
   },
   "active": "c7f3a374e75aa789",
   "lastOpenFiles": [
+    "_posts/2025-04-29-The Multifacetedness of a Symbol, Noble Savage Hermits, and Shamans.md",
     "Blog.md",
+    "index.md",
     "Resources DRAFT.md",
     "Links.md",
-    "index.md",
-    "_posts/2025-04-29-The Multifacetedness of a Symbol, Noble Savage Hermits, and Shamans.md",
     "favicon-48x48.png",
     "Recommended Essays.md",
     "Reading-Watching.md",
