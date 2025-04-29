@@ -11,7 +11,7 @@ I work in animation, but I am also interested in exploring adjacent fields such 
 
 Alongside my professional work, I research the history and mystical traditions of Islam, as well as the history of Siberia and its peoples across the past, present, and future. I spend most of my time between Toronto, London, and my hometown of Ulan-Ude.
 
-You can find a random assortment of my musings [here](https://yanazuray.me/Blog). I also publish personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/).
+You can find a random assortment of my musings [here](https://yanazuray.me/blog). I also publish personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/).
 
 Twitter/X: [@yiihya](https://x.com/yiihya) — aesthetics, history, assorted miscellanea
 
