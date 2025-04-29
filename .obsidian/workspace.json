@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans"
             }
           },
           {
@@ -196,18 +196,18 @@
   },
   "active": "473a30af691aac7f",
   "lastOpenFiles": [
-    "Links.md",
-    "Reading-Watching.md",
-    "Recommended Essays.md",
     "Blog.md",
     "_posts/2025-04-29-The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans.md",
+    "favicon-48x48.png",
+    "Reading-Watching.md",
+    "Links.md",
+    "Recommended Essays.md",
+    "index.md",
     "_authors/yana.md",
     "_authors/ted.md",
     "Pasted image 20250429180627.png",
     "Pasted image 20250429180634.png",
-    "index.md",
     "Resources DRAFT.md",
-    "favicon-48x48.png",
     "Pasted image 20250429151506.png",
     "Untitled.md",
     "Sketchbook.md",
@@ -241,7 +241,6 @@
     "_site/Untitled.md",
     "_site/Resources.md.md",
     "Blog.md.md",
-    "_site/Sketchbook.md.md",
     "Untitled.canvas"
   ]
 }

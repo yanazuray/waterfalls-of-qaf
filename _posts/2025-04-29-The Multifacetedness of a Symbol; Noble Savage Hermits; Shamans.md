@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Multifacetedness of a Symbol, Noble Savage Hermits, and Shamans"
+title: The Multifacetedness of a Symbol; Noble Savage Hermits; Shamans
 date: 2025-04-29
 permalink: /blog/multifacetedness-symbol/
 ---
