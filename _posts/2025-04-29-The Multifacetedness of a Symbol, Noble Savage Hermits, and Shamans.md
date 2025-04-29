@@ -1,8 +1,8 @@
 ---
 layout: post
-title: test
+title: "The Multifacetedness of a Symbol, Noble Savage Hermits, and Shamans"
 date: 2025-04-29
-permalink: blog/multifacetedness-of-a-symbol/
+permalink: /blog/multifacetedness-symbol/
 ---
 
 There is one persistent misconception in the mind of a modern man, a belief that a spiritual or religious interpretation of a given symbol is, by nature, mutually exclusive to a historical or materialist one. The origin of this assumption is almost never examined, though it likely stems from the habit of viewing the material as being locked in fundamental conflict with the spiritual. It's either/or, rarely both.

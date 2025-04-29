@@ -1,29 +1,14 @@
-title: Waterfalls of Qaf
-description: >- 
-  A personal website.
-baseurl: "" # Important: No spaces after the colon except the empty quotes
-url: "https://yanazuray.me"
-
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
 collections:
   authors:
     output: true
-
 defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
   - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-
+      layout: post
 sass:
   sass_dir: _sass
   style: compressed
