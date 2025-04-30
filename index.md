@@ -13,7 +13,7 @@ Alongside my professional work, I research the history and mystical traditions o
 
 You can find a random assortment of my musings [here](https://yanazuray.me/blog). I also publish personal reflections and essays on mysticism at [Waterfalls of Qaf](https://waterfallsofqaf.substack.com/).
 
-Twitter/X: [@yiihya](https://x.com/yiihya) — aesthetics, history, assorted miscellanea
+Twitter/X: [@yiihya](https://x.com/yiihya) — aesthetics, history, assorted miscellanea;
 
 [@mythosiberia](https://x.com/mythosiberia) — Siberian aesthetic page
 
