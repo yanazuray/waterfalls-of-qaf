@@ -4,9 +4,6 @@ title: On 'Noble Savage' Hermits, Shamans, and the Multifacetedness of a Symbol
 date: 2025-04-29
 permalink: /blog/multifacetedness-symbol/
 ---
-![[Pasted image 20250429211744.png]]
-*Magician, 1943, Nicholas Roerich*
-
 There is a persistent misconception in the mind of a modern man, a belief that a spiritual or religious interpretation of a given symbol is, by nature, mutually exclusive to a historical or materialist one. The origin of this assumption is almost never examined, though it probably stems from viewing the material as being locked in fundamental conflict with the spiritual. It's either/or, rarely both.
 
 This same sentiment manifests in other ways, in sayings like, "there are no true mystics left in the world, and if any exist, they are hiding in caves, not wasting time on the internet", which reveals, at best, a sort of naïve idealism (and, at worst, paternalism) on the part of the speaker. What is held sacred here is not the mystic himself, but the idea, *the image* of what a mystic is supposed to be, a noble savage-hermit who belongs in the abode of yesterday. It is in the abode of yesterday that the mystic or shaman must remain. He is a living artifact to be studied and marveled at, but never fully engaged with as equal. *Lappen ska vara Lapp; Eremiten ska vara eremit.* 
