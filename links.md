@@ -150,7 +150,7 @@ I’m still sorting through my bookmarks, so this list will be updated regularly
 
 [Kets (in Russian)](https://vk.com/club22892836) Everything pertaining to the Kets.
 
-[Evenkiteka (in Russian)(https://vk.com/evenkiteka)] Everything pertaining to the Evenks.
+[Evenkiteka (in Russian)](https://vk.com/evenkiteka) Everything pertaining to the Evenks.
 
 ...
 
