@@ -29,7 +29,7 @@
               "state": {
                 "file": "_posts/2025-04-29-On 'Noble Savage' Hermits, Shamans, and the Multifacetedness of a Symbol.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2025-04-29-On 'Noble Savage' Hermits, Shamans, and the Multifacetedness of a Symbol"
@@ -194,21 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "473a30af691aac7f",
+  "active": "8df2439691ca23ee",
   "lastOpenFiles": [
+    "Pasted image 20250429211744.png",
+    "assets/images/magician-1943.jpg",
+    "assets/images/magician-1943.jpg.crdownload",
     "blog.md",
+    "links.md",
     "index.md",
+    "favicon-48x48.png",
+    "sketchbook.md",
+    "Resources DRAFT.md",
     "_posts/2025-04-29-On 'Noble Savage' Hermits, Shamans, and the Multifacetedness of a Symbol.md",
     "Recommended Essays.md",
-    "favicon-48x48.png",
-    "Resources DRAFT.md",
     "reading-watching.md",
-    "links.md",
     "blog-temp.md",
     "links-temp.md",
     "reading-watching-temp.md",
     "sketchbook-temp.md",
-    "sketchbook.md",
     "_authors/yana.md",
     "_authors/ted.md",
     "Pasted image 20250429180627.png",
@@ -226,7 +229,6 @@
     "assets/sketchbook.md",
     "assets/sketchbook/Pasted image 20250426010013.png",
     "assets/sketchbook/Pasted image 20250426010004.png",
-    "assets/sketchbook/Pasted image 20250426005955.png",
     "assets/sketchbook",
     "assets/New folder",
     "CNAME",
@@ -240,7 +242,6 @@
     "assets/css/styles.css",
     "_site/sketchbook/index.html",
     "_site/sketchbook",
-    "_site/Sketchbook.md.html",
     "Untitled.canvas"
   ]
 }
