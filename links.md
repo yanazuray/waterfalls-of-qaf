@@ -112,7 +112,7 @@ I’m still sorting through my bookmarks, so this list will be updated regularly
 
 [Sanskrit Resources (in Russian)](https://samskrtam.ru/)
 
-[Sā́mapriyaḣ](https://x.com/avzaagzonunaada) Descriptive and historical linguistics of the Caucasus, the Indian subcontinent, the Pacific Northwest, and more.
+[Sā́mapriyaḣ](https://x.com/avzaagzonunaada) Descriptive and historical linguistics of the Caucasus, Indian subcontinent, Pacific Northwest, and more.
 
 [The Bazaar of War](https://dispatch.bazaarofwar.com/) Dispatches exploring warfare, past and present.
 
@@ -152,7 +152,6 @@ I’m still sorting through my bookmarks, so this list will be updated regularly
 
 [Evenkiteka (in Russian)](https://vk.com/evenkiteka) Everything pertaining to the Evenks.
 
-...
 
 ---
 
