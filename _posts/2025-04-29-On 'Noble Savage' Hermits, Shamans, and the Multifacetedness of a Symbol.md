@@ -23,7 +23,7 @@ The shaman we met was a government clerk. Let's call him Alexey. On weekdays, he
 
 We rang the bell, and moments later, a middle-aged Buryat man emerged from behind the gate. The inside of his house was just what you would expect from a rural countryside home: modest but tidy, with aged wooden floors, pale blue walls, floral-patterned blankets, and a clay stove. The only things that hinted at anything unusual were a drum, a headdress, and _ongon_ figurines on the wall.
 
-I’ll leave out the details of our conversation, as they’re probably better suited to a different context. But at no point during the session did he reach for the shamanic garb or accessories, as an outsider might perhaps expect. Some shamans do it for show. Then again, most of those are charlatans. I don’t think Alexey was one of them.
+I’ll leave out the details of our conversation, as they’re probably better suited to a different context. But at no point during the session did he reach for the shamanic garb or accessories, as an outsider might expect. Some shamans do it for show; then again, most of those are charlatans. I don’t think Alexey was one of them.
 
 Before we left, my sister-in-law asked, "So, why did you become a shaman?"
 
