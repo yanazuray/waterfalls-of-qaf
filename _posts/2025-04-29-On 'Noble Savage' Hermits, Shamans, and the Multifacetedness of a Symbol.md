@@ -3,7 +3,7 @@ layout: post
 title: On 'Noble Savage' Hermits, Shamans, and the Multifacetedness of a Symbol
 date: 2025-04-29
 permalink: /blog/multifacetedness-symbol/
-image: /assets/images/multifacetedness-preview.jpg
+image: /assets/images/magician-1943.jpg
 ---
 <p style="text-align:left;">
   <img src="/assets/images/magician-1943.jpg" alt="Multifacetedness of a Symbol" width="600" />
