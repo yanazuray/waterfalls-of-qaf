@@ -4,6 +4,8 @@ title: On 'Noble Savage' Hermits, Shamans, and the Multifacetedness of a Symbol
 date: 2025-04-29
 permalink: /blog/multifacetedness-symbol/
 ---
+![[Pasted image 20250429211744.png]]
+*Magician, 1943, Nicholas Roerich*
 
 There is a persistent misconception in the mind of a modern man, a belief that a spiritual or religious interpretation of a given symbol is, by nature, mutually exclusive to a historical or materialist one. The origin of this assumption is almost never examined, though it probably stems from viewing the material as being locked in fundamental conflict with the spiritual. It's either/or, rarely both.
 
