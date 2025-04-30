@@ -2,8 +2,9 @@
 layout: post
 title: On 'Noble Savage' Hermits, Shamans, and the Multifacetedness of a Symbol
 date: 2025-04-29
-permalink: /blog/multifacetedness-symbol/
+permalink: /blog/multifacetedness-symbol-v1/
 image: /assets/images/magician-1943.jpg
+description: An inaugural post with some of my thoughts on symbols, 'noble savage' hermits, and shamans.
 ---
 <p style="text-align:left;">
   <img src="/assets/images/magician-1943.jpg" alt="Multifacetedness of a Symbol" width="600" />
@@ -34,4 +35,4 @@ I’m reminded of this story because shamans and monks were not seen as somethin
 
 But, coming back to the symbols — a symbol, by its nature, contains a multitude of meanings, of low and high orders, literal and abstract. The correct way to look at it is as a superimposition of layers. An exoteric interpretation of a symbol does not automatically invalidate the esoteric one, and vice versa. Symbolism is inherent to nature, and nature itself amounts to no more than a symbol of the transcendent realities, echoing the verses of the Quran: _“We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth”(41:53)_ and _“Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding.” (3:190-191)_
 
-A symbol can operate on a purely intellectual level, a moral or psychological level, and a metaphysical or divine level. Guénon's in _The Symbolism of the Cross_ presents perhaps the most thorough exploration of this idea, examining the Cross as the universal symbol that can be interpreted on multiple levels of abstraction. I will be publishing my notes on this subject incrementally in the follow-up posts, and may revise this blog entry later; but for now, let it stay as is.
+A symbol can operate on a purely intellectual level, a moral or psychological level, and a metaphysical or divine level. Guénon in _The Symbolism of the Cross_ presents perhaps the most thorough exploration of this idea, examining the Cross as the universal symbol that can be interpreted on multiple levels of abstraction. I will be publishing my notes on this subject incrementally in the follow-up posts, and may revise this blog entry later; but for now, let it stay as is.
